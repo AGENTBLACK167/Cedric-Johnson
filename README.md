@@ -11,6 +11,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cedricjohnson167/configure-ad)
     
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2>[linkedin]: https://www.linkedin.com/in/cedric-johnson-b46212237/
 
-[linkedin]: https://www.linkedin.com/in/cedric-johnson-b46212237/
